@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTrwbH5+7is=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\CoreWebApidemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  Unable to connect to the remote server\r\n  A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 23.44.10.210:443",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}

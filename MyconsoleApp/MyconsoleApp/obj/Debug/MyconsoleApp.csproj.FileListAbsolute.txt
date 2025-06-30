@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.exe.config
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.exe
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\MyconsoleApp.pdb
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.exe
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\MyconsoleApp.pdb
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\Myclasslibrary.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\Myclasslibrary.pdb
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\obj\Debug\Myconsol.84263C0E.Up2Date
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\Mymathlib.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\MyconsoleApp\bin\Debug\Mymathlib.pdb

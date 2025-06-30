@@ -1,0 +1,6 @@
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\bin\Debug\Myclasslibrary.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\bin\Debug\Myclasslibrary.pdb
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\obj\Debug\Myclasslibrary.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\obj\Debug\Myclasslibrary.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\obj\Debug\Myclasslibrary.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Myclasslibrary\obj\Debug\Myclasslibrary.pdb

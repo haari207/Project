@@ -1,0 +1,15 @@
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\bin\Debug\Mywinapp.exe.config
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\bin\Debug\Mywinapp.exe
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\bin\Debug\Mywinapp.pdb
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.Form1.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.Properties.Resources.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.csproj.GenerateResource.cache
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.exe
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.pdb
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.Form2.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.Form3.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.MyNotepad.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.Form4.resources
+C:\Users\pallapu.sandhya\source\repos\Mywinapp\Mywinapp\obj\Debug\Mywinapp.RegExdemo.resources

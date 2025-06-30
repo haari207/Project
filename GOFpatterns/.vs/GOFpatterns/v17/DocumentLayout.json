@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\gofpatterns\\gofpatterns\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\gofpatterns\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E5E16A-0015-4F47-B0AA-507911BF0FFE}|GOFpatterns\\GOFpatterns.csproj|solutionrelative:gofpatterns\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Observer.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Observer.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Observer.cs",
+              "RelativeToolTip": "GOFpatterns\\Observer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:55:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Template.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Template.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Template.cs",
+              "RelativeToolTip": "GOFpatterns\\Template.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:53:54.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "facade.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\facade.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\facade.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\facade.cs",
+              "RelativeToolTip": "GOFpatterns\\facade.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwCoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:17:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Adapter.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Adapter.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Adapter.cs",
+              "RelativeToolTip": "GOFpatterns\\Adapter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:53:48.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Prototype.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Prototype.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Prototype.cs",
+              "RelativeToolTip": "GOFpatterns\\Prototype.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:26:38.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Factory.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Factory.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Factory.cs",
+              "RelativeToolTip": "GOFpatterns\\Factory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:02:22.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Singletonpattern.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Singletonpattern.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Singletonpattern.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Singletonpattern.cs",
+              "RelativeToolTip": "GOFpatterns\\Singletonpattern.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:55:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Program.cs",
+              "RelativeDocumentMoniker": "GOFpatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\GOFpatterns\\GOFpatterns\\Program.cs",
+              "RelativeToolTip": "GOFpatterns\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:55:21.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

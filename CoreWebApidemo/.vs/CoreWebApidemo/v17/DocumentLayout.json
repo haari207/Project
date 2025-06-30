@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\corewebapidemo\\corewebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|solutionrelative:corewebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\corewebapidemo\\corewebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|solutionrelative:corewebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\corewebapidemo\\corewebapidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E56EAF8-F2FA-4E46-A2EC-0EA6EDE3F7F8}|CoreWebApidemo\\CoreWebApidemo.csproj|solutionrelative:corewebapidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CoreWebApidemo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\WeatherForecast.cs",
+              "RelativeToolTip": "CoreWebApidemo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:20:14.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CoreWebApidemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CoreWebApidemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:10:42.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\Program.cs",
+              "RelativeDocumentMoniker": "CoreWebApidemo\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CoreWebApidemo\\CoreWebApidemo\\Program.cs",
+              "RelativeToolTip": "CoreWebApidemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:08:13.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyTemplate.master.cs" Inherits="OnlineShop.MyTemplate" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+        }
+        .auto-style5 {
+            width: 34px;
+        }
+        .auto-style9 {
+            width: 34px;
+            height: 36px;
+        }
+        .auto-style13 {
+            width: 39px;
+        }
+        .auto-style14 {
+            width: 39px;
+            height: 36px;
+        }
+        .auto-style17 {
+            width: 32px;
+        }
+        .auto-style18 {
+            width: 32px;
+            height: 36px;
+        }
+        .auto-style22 {
+            width: 48px;
+        }
+        .auto-style23 {
+            width: 48px;
+            height: 36px;
+        }
+        .auto-style25 {
+            width: 101px;
+            height: 36px;
+        }
+        .auto-style26 {
+            width: 88px;
+        }
+        .auto-style27 {
+            width: 88px;
+            height: 36px;
+        }
+        .auto-style28 {
+            width: 101px;
+        }
+        .auto-style29 {
+            width: 223px;
+        }
+        .auto-style30 {
+            width: 223px;
+            height: 36px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Image ID="Image1" runat="server" Height="165px" ImageUrl="~/banner1.jpg" style="margin-left: 2px" Width="1306px" />
+        </div>
+        <table style="width: 98%;">
+            <tr>
+                <td class="auto-style28">
+                    <asp:SiteMapPath ID="SiteMapPath2" runat="server">
+                    </asp:SiteMapPath>
+                </td>
+                <td class="auto-style29">
+                    <asp:Label ID="Label1" runat="server" BackColor="White" ForeColor="Black" Text=" Welcome to Master Page!!"></asp:Label>
+                </td>
+                <td class="auto-style5">&nbsp;</td>
+                <td class="auto-style22">&nbsp;</td>
+                <td class="auto-style13">&nbsp;</td>
+                <td class="auto-style17">&nbsp;</td>
+                <td class="auto-style26">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style25" style="background-color: #00CCFF">
+                    &nbsp;</td>
+                <td class="auto-style30" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="Black" NavigateUrl="~/Home.aspx"> Home</asp:HyperLink>
+                </td>
+                <td class="auto-style9" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink2" runat="server" ForeColor="Black" NavigateUrl="~/Login.aspx"> Login</asp:HyperLink>
+                </td>
+                <td class="auto-style23" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink3" runat="server" ForeColor="Black" NavigateUrl="~/Products.aspx"> Products</asp:HyperLink>
+                </td>
+                <td class="auto-style14" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink4" runat="server" ForeColor="Black" NavigateUrl="~/Register.aspx"> Register</asp:HyperLink>
+                </td>
+                <td class="auto-style18" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink5" runat="server" ForeColor="Black" NavigateUrl="~/Buy.aspx"> Buy</asp:HyperLink>
+                </td>
+                <td class="auto-style27" style="background-color: #00CCFF">
+                    <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/Logout.aspx"> Logout</asp:HyperLink>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style28">
+                    <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+                    </asp:TreeView>
+                </td>
+                <td class="auto-style29">&nbsp;</td>
+                <td class="auto-style5">&nbsp;</td>
+                <td class="auto-style22">&nbsp;</td>
+                <td class="auto-style13">&nbsp;</td>
+                <td class="auto-style17">&nbsp;</td>
+                <td class="auto-style26">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style28">
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                    <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
+                    </asp:Menu>
+                </td>
+                <td class="auto-style2" colspan="5">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    <br />
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style26">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style28">&nbsp;</td>
+                <td class="auto-style29">&nbsp;</td>
+                <td class="auto-style5">&nbsp;</td>
+                <td class="auto-style22">&nbsp;</td>
+                <td class="auto-style13">&nbsp;</td>
+                <td class="auto-style17">&nbsp;</td>
+                <td class="auto-style26">&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

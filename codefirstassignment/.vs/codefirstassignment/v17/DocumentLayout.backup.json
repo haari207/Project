@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\consoleapp2\\genrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\genrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\consoleapp2\\efcis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\efcis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\consoleapp2\\getcust_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\getcust_result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\consoleapp2\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F5BF8B2B-F131-4AF1-BEA5-FEE4811B5A69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Genrepo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Genrepo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Genrepo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Genrepo.cs",
+              "RelativeToolTip": "ConsoleApp2\\Genrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:36:02.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getcust_Result.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\getcust_Result.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\getcust_Result.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\getcust_Result.cs",
+              "RelativeToolTip": "ConsoleApp2\\getcust_Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:01:24.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFCIs.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\EFCIs.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EFCIs.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\EFCIs.cs",
+              "RelativeToolTip": "ConsoleApp2\\EFCIs.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:08:31.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Model1.edmx",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Model1.edmx",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ConsoleApp2\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-30T11:00:58.163Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\codefirstassignment\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:00:22.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

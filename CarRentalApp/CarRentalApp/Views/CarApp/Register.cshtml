@@ -1,0 +1,32 @@
+﻿@model CarRentalApp.Models.Customer
+
+<form method="post">
+	<label>Enter Name</label>
+	<input type="text" asp-for="Name" class="form-control"/>
+	<span asp-validation-for="Name" class="btn btn-warning"></span>
+	<label>Enter Username</label>
+	<input type="text" asp-for="Username" class="form-control" />
+	<span asp-validation-for="Username" class="btn btn-warning"></span>
+	<label>Enter Password</label>
+	<input type="password" asp-for="Pwd" class="form-control" />
+	<span asp-validation-for="Pwd" class="btn btn-warning"></span>
+	<label>Enter Email</label>
+	<input type="email" asp-for="Email" class="form-control" />
+	<span asp-validation-for="Email" class="btn btn-warning"></span>
+	<label>Enter Phone</label>
+	<input type="text" asp-for="Phone" class="form-control" />
+	<span asp-validation-for="Phone" class="btn btn-warning"></span>
+	<label>Enter Address</label>
+	<input type="text" asp-for="Address" class="form-control" />
+	<label>Enter License number</label>
+	<input type="text" asp-for="LicenseNumber" class="form-control" />
+	<span asp-validation-for="LicenseNumber" class="btn btn-warning"></span>
+	<input type="submit" value="Register" class="btn btn-success" />
+</form>
+@if (Model != null && !string.IsNullOrEmpty(Model.Name))
+{
+	<div>
+		@Model.Name, you have successfully registered.
+	</div>
+}
+

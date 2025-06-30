@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model2" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model2Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Model2.Customer" />
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustName" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <Property Name="Mobile" Type="String" Nullable="false" FixedLength="true" />
+    <Property Name="CustomerType" Type="Self.CustomerType" Nullable="false" />
+    <Property Name="Registeredon" Type="DateTime" Nullable="false" />
+    <Property Name="Location" Type="Geography" Nullable="false" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EnumType Name="CustomerType" UnderlyingType="Int32">
+    <Member Name="Regular" Value="0" />
+    <Member Name="Preminum" Value="1" />
+    <Member Name="VIP" Value="2" />
+  </EnumType>
+</Schema>

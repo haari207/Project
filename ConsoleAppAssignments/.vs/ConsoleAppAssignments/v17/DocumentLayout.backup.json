@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\ConsoleAppAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38180A8-C663-461E-AA27-ED9F19983491}|ConsoleAppAssignments\\ConsoleAppAssignments.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\consoleappassignments\\consoleappassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A38180A8-C663-461E-AA27-ED9F19983491}|ConsoleAppAssignments\\ConsoleAppAssignments.csproj|solutionrelative:consoleappassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\ConsoleAppAssignments\\ConsoleAppAssignments\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssignments\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\ConsoleAppAssignments\\ConsoleAppAssignments\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAssignments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:48:15.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\obj\Debug\GOFpatterns.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\obj\Debug\GOFpatterns.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\bin\Debug\GOFpatterns.exe.config
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\bin\Debug\GOFpatterns.exe
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\bin\Debug\GOFpatterns.pdb
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\obj\Debug\GOFpatterns.exe
+C:\Users\pallapu.sandhya\source\repos\GOFpatterns\GOFpatterns\obj\Debug\GOFpatterns.pdb

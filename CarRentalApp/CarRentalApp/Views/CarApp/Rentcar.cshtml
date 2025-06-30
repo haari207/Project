@@ -1,0 +1,18 @@
+﻿
+ @model CarRentalApp.Models.Rental
+
+<form method="post">
+	<input type="date" asp-for="StartDate" /><br />
+	<input type="date" asp-for="EndDate" /><br />
+
+	<input type="submit" class="btn btn-primary" />
+
+</form>
+
+<div> The no. records entered into the table @ViewBag.msg</div>
+@if (@ViewBag.msg > 0)
+{
+	<a href="Payment?rentid=@ViewBag.rid&stdt=@ViewBag.st&endt=@ViewBag.et&amount=@ViewBag.amount" class="btn btn-success">Payment</a>
+}
+
+

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\versioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\controllers\\spfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\controllers\\spfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\webapidemo\\webapidemo\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F603C57E-7468-4450-8526-35F807B2891F}|WebApidemo\\WebApidemo.csproj|solutionrelative:webapidemo\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SPFController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\SPFController.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\SPFController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\SPFController.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\SPFController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:47:15.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VersionController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\VersionController.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\VersionController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\VersionController.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\VersionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:47:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestingController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\TestingController.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\TestingController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\TestingController.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\TestingController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:59:04.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "b248dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Models\\b248dbContext.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Models\\b248dbContext.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Models\\b248dbContext.cs",
+              "RelativeToolTip": "WebApidemo\\Models\\b248dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:35:58.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApidemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:01:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApidemo\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\WebApidemo\\WebApidemo\\Program.cs",
+              "RelativeToolTip": "WebApidemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:59:16.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

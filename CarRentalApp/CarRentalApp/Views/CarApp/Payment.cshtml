@@ -1,0 +1,41 @@
+﻿@model CarRentalApp.Models.Payment
+
+ 
+<h2>Payment</h2>
+
+<form method="post">
+
+    <input type="hidden" name="rentid" value="@TempData["RentalId"]" />
+
+    <div>
+        <label><strong>Rental ID:</strong></label> @TempData["RentalId"]
+    </div>
+    <div>
+        <label><strong>Amount:</strong></label> @TempData["Amount"]
+    </div>
+    <div>
+        <label><strong>Payment Date:</strong></label> @TempData["PaymentDate"]
+    </div>
+    <div>
+        <label><strong>Payment Method:</strong></label>
+        <select name="Paymentmethod" required>
+            <option value="">--Select--</option>
+            <option value="Credit Card">Credit Card</option>
+            <option value="Debit Card">Debit Card</option>
+            <option value="Cash">Cash</option>
+            <option value="Online">Online</option>
+
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Pay</button>
+</form>
+
+ @if (ViewBag.Message != null)
+{
+    <div class="alert alert-success">
+        <strong>@ViewBag.Message</strong>
+        <br />
+        <strong>Payment Method Used:</strong> @ViewBag.Paymentmethod
+    </div>
+}
+

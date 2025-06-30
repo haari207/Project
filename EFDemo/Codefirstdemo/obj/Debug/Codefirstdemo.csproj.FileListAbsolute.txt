@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\Codefirstdemo.exe.config
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\Codefirstdemo.exe
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\Codefirstdemo.pdb
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\obj\Debug\Codefirstdemo.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\obj\Debug\Codefirstdemo.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\obj\Debug\Codefirs.DDEF7D74.Up2Date
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\obj\Debug\Codefirstdemo.exe
+C:\Users\pallapu.sandhya\source\repos\EFDemo\Codefirstdemo\obj\Debug\Codefirstdemo.pdb

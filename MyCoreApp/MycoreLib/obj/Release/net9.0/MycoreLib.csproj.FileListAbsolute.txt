@@ -1,0 +1,11 @@
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\bin\Release\net9.0\MycoreLib.deps.json
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\bin\Release\net9.0\MycoreLib.dll
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\bin\Release\net9.0\MycoreLib.pdb
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.AssemblyInfoInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.AssemblyInfo.cs
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.dll
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\refint\MycoreLib.dll
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\MycoreLib.pdb
+C:\Users\pallapu.sandhya\source\repos\MyCoreApp\MycoreLib\obj\Release\net9.0\ref\MycoreLib.dll

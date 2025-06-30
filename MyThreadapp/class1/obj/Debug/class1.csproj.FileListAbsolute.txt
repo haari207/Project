@@ -1,0 +1,6 @@
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\bin\Debug\class1.dll
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\bin\Debug\class1.pdb
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\obj\Debug\class1.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\obj\Debug\class1.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\obj\Debug\class1.dll
+C:\Users\pallapu.sandhya\source\repos\MyThreadapp\class1\obj\Debug\class1.pdb

@@ -1,0 +1,7 @@
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\bin\Debug\Adoproj.exe.config
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\bin\Debug\Adoproj.exe
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\bin\Debug\Adoproj.pdb
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\obj\Debug\Adoproj.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\obj\Debug\Adoproj.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\obj\Debug\Adoproj.exe
+C:\Users\pallapu.sandhya\source\repos\Adoproj\Adoproj\obj\Debug\Adoproj.pdb

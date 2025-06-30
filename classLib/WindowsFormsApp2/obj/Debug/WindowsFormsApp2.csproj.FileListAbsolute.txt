@@ -1,0 +1,10 @@
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\pallapu.sandhya\source\repos\classLib\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

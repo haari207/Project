@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\assignments\\assignments\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|solutionrelative:assignments\\stringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\assignments\\assignments\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|solutionrelative:assignments\\strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\assignments\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|solutionrelative:assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\assignments\\assignments\\indexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BC6132-2C22-482A-84C6-DED9B358E506}|Assignments\\Assignments.csproj|solutionrelative:assignments\\indexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "Assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\Program.cs",
+              "RelativeToolTip": "Assignments\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAtwI8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:51:37.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strings.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\strings.cs",
+              "RelativeDocumentMoniker": "Assignments\\strings.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\strings.cs",
+              "RelativeToolTip": "Assignments\\strings.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:54:46.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringbuilder.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\stringbuilder.cs",
+              "RelativeDocumentMoniker": "Assignments\\stringbuilder.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\stringbuilder.cs",
+              "RelativeToolTip": "Assignments\\stringbuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:53:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "indexexception.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\indexexception.cs",
+              "RelativeDocumentMoniker": "Assignments\\indexexception.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Assignments\\Assignments\\indexexception.cs",
+              "RelativeToolTip": "Assignments\\indexexception.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAtwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:40:11.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

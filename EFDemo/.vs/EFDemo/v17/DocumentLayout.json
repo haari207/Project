@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\efdemo\\codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\mycustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\mycustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\codecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\codecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF3E977F-D53D-4FCE-A926-1B79665A8272}|Codefirstdemo\\Codefirstdemo.csproj|solutionrelative:codefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\efdemo\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B603BAF-55AE-4D12-AA55-8BE217338736}|EFDemo\\EFDemo.csproj|solutionrelative:efdemo\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPL.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\IPL.cs",
+              "RelativeDocumentMoniker": "Codefirstdemo\\IPL.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\IPL.cs",
+              "RelativeToolTip": "Codefirstdemo\\IPL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:53:59.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\packages.config",
+              "RelativeDocumentMoniker": "EFDemo\\packages.config",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\packages.config",
+              "RelativeToolTip": "EFDemo\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-18T04:56:00.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\packages.config",
+              "RelativeDocumentMoniker": "Codefirstdemo\\packages.config",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\packages.config",
+              "RelativeToolTip": "Codefirstdemo\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-18T04:55:37.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.edmx",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "EFDemo\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-18T04:51:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\MyCustomers.cs",
+              "RelativeDocumentMoniker": "EFDemo\\MyCustomers.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\MyCustomers.cs",
+              "RelativeToolTip": "EFDemo\\MyCustomers.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:54:07.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.edmx.diagram",
+              "RelativeToolTip": "EFDemo\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-05T05:07:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.cs",
+              "RelativeToolTip": "EFDemo\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:07:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Model1.Context.cs",
+              "RelativeToolTip": "EFDemo\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:06:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Customer.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Customer.cs",
+              "RelativeToolTip": "EFDemo\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:17:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\CodeCRUD.cs",
+              "RelativeDocumentMoniker": "Codefirstdemo\\CodeCRUD.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\CodeCRUD.cs",
+              "RelativeToolTip": "Codefirstdemo\\CodeCRUD.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:40:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\App.config",
+              "RelativeDocumentMoniker": "Codefirstdemo\\App.config",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\App.config",
+              "RelativeToolTip": "Codefirstdemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T08:50:11.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Movie.cs",
+              "RelativeDocumentMoniker": "Codefirstdemo\\Movie.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Movie.cs",
+              "RelativeToolTip": "Codefirstdemo\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:43:16.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Model1.cs",
+              "RelativeDocumentMoniker": "Codefirstdemo\\Model1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Model1.cs",
+              "RelativeToolTip": "Codefirstdemo\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:53:36.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Codefirstdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\Codefirstdemo\\Program.cs",
+              "RelativeToolTip": "Codefirstdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:51:08.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "EFDemo\\Class1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\Class1.cs",
+              "RelativeToolTip": "EFDemo\\Class1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:20:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\order.cs",
+              "RelativeDocumentMoniker": "EFDemo\\order.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\EFDemo\\EFDemo\\order.cs",
+              "RelativeToolTip": "EFDemo\\order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:12:44.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C87109E-F490-4AD8-843E-0AE3A851842D}|TestProject1\\TestProject1.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C87109E-F490-4AD8-843E-0AE3A851842D}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\testdemo\\controllers\\hicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|solutionrelative:testdemo\\controllers\\hicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C87109E-F490-4AD8-843E-0AE3A851842D}|TestProject1\\TestProject1.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C87109E-F490-4AD8-843E-0AE3A851842D}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\testdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|solutionrelative:testdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\testdemo\\testdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7927B6C0-E54C-43F3-B8F8-62274C4AE3B2}|Testdemo\\Testdemo.csproj|solutionrelative:testdemo\\testdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E02038-3698-468B-B789-AC021E5FD089}|MinimalAPIdemo\\MinimalAPIdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\minimalapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E02038-3698-468B-B789-AC021E5FD089}|MinimalAPIdemo\\MinimalAPIdemo.csproj|solutionrelative:minimalapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E02038-3698-468B-B789-AC021E5FD089}|MinimalAPIdemo\\MinimalAPIdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\minimalapidemo\\minimalapidemo\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E02038-3698-468B-B789-AC021E5FD089}|MinimalAPIdemo\\MinimalAPIdemo.csproj|solutionrelative:minimalapidemo\\models\\b248dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T11:30:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:30:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HiController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Controllers\\HiController.cs",
+              "RelativeDocumentMoniker": "Testdemo\\Controllers\\HiController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Controllers\\HiController.cs*",
+              "RelativeToolTip": "Testdemo\\Controllers\\HiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:24:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Testdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Program.cs",
+              "RelativeToolTip": "Testdemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:21:10.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Testdemo",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Testdemo.csproj",
+              "RelativeDocumentMoniker": "Testdemo\\Testdemo.csproj",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\Testdemo\\Testdemo.csproj",
+              "RelativeToolTip": "Testdemo\\Testdemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T11:21:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "b248dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\MinimalAPIdemo\\Models\\b248dbContext.cs",
+              "RelativeDocumentMoniker": "MinimalAPIdemo\\Models\\b248dbContext.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\MinimalAPIdemo\\Models\\b248dbContext.cs",
+              "RelativeToolTip": "MinimalAPIdemo\\Models\\b248dbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:03:40.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\MinimalAPIdemo\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPIdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MinimalAPIdemo\\MinimalAPIdemo\\Program.cs",
+              "RelativeToolTip": "MinimalAPIdemo\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:46:55.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

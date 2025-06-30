@@ -1,0 +1,6 @@
+@CoreWebApidemo_HostAddress = http://localhost:5115
+
+GET {{CoreWebApidemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

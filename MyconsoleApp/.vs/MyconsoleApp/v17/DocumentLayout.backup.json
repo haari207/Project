@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD1776F-3A03-4F1D-A137-7D24051E363F}|Mymathlib\\Mymathlib.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\myconsoleapp\\mymathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD1776F-3A03-4F1D-A137-7D24051E363F}|Mymathlib\\Mymathlib.csproj|solutionrelative:mymathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\iostreamsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\iostreamsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\eventsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\eventsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\copydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\copydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myconsoleapp\\delrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB54B82-66E7-48CE-A700-77EAA07D81AB}|MyconsoleApp\\MyconsoleApp.csproj|solutionrelative:myconsoleapp\\delrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B576D975-100B-4009-AD70-76969980A126}|Myclasslibrary\\Myclasslibrary.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\myclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B576D975-100B-4009-AD70-76969980A126}|Myclasslibrary\\Myclasslibrary.csproj|solutionrelative:myclasslibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "copydemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\copydemo.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\copydemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\copydemo.cs",
+              "RelativeToolTip": "MyconsoleApp\\copydemo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:16:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delrealtime.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Delrealtime.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\Delrealtime.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Delrealtime.cs",
+              "RelativeToolTip": "MyconsoleApp\\Delrealtime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:26:33.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOstreamsdemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\IOstreamsdemo.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\IOstreamsdemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\IOstreamsdemo.cs",
+              "RelativeToolTip": "MyconsoleApp\\IOstreamsdemo.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwMUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:52:43.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\employee.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\employee.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\employee.cs",
+              "RelativeToolTip": "MyconsoleApp\\employee.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:52:28.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\Mymathlib\\Class1.cs",
+              "RelativeDocumentMoniker": "Mymathlib\\Class1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\Mymathlib\\Class1.cs",
+              "RelativeToolTip": "Mymathlib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:51:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\Myclasslibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Myclasslibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\Myclasslibrary\\Class1.cs",
+              "RelativeToolTip": "Myclasslibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:51:32.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eventsdemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Eventsdemo.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\Eventsdemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Eventsdemo.cs",
+              "RelativeToolTip": "MyconsoleApp\\Eventsdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:31:46.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyconsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MyconsoleApp\\MyconsoleApp\\Program.cs",
+              "RelativeToolTip": "MyconsoleApp\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAmwCUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:57:29.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

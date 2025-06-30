@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

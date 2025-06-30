@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Pizzas" EntityType="Model1.Store.Pizzas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Book" EntityType="Model1.Store.Book" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customers" EntityType="Model1.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="Model1.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CustomersOrders" Association="Model1.Store.CustomersOrders">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Pizzas">
+    <Key>
+      <PropertyRef Name="pizzaid" />
+    </Key>
+    <Property Name="pizzaid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="pizzatype" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="price" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="toppings" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="Bookname" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="author" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="price" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="custId" />
+    </Key>
+    <Property Name="custId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="custname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="age" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="custaddress" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="orderId" />
+    </Key>
+    <Property Name="orderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="custid" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="orddate" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="product" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="qty" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Customers_custId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="CustomersOrders">
+    <End Role="Customers" Type="Model1.Store.Customers" Multiplicity="1" />
+    <End Role="Orders" Type="Model1.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="custId" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="Customers_custId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

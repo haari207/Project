@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CarRentalApp.Models.Vehicle>
+
+<h2>Available Cars</h2>
+
+
+@{
+    ViewData["Title"] = "View Cars";
+    var cars = Model as IEnumerable<CarRentalApp.Models.Vehicle>;
+}
+
+<form method="get" asp-action="Viewcars">
+	<input type="text" name="search" class="form-control" placeholder="Search by car name..." value="@(Context.Request.Query["search"])" />
+
+    <button type="submit">Search</button>
+</form>
+
+ 
+
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var vehicle in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="~/a.webp" class="card-img-top" alt="Car Image" style="height:200px;object-fit:cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@vehicle.Brand @vehicle.Model</h5>
+                        <ul class="list-group list-group-flush mb-2">
+                            <li class="list-group-item"><strong>Year:</strong> @vehicle.Year</li>
+                            <li class="list-group-item"><strong>Fuel:</strong> @vehicle.Fueltype</li>
+                            <li class="list-group-item"><strong>License Plate:</strong> @vehicle.LicensePlate</li>
+                            <li class="list-group-item"><strong>Rent per day:</strong> @vehicle.Rentperday</li>
+                            <li class="list-group-item"><strong>Status:</strong> @vehicle.Status</li>
+                        </ul>
+                        <a href="@Url.Action("Rentcar", "CarApp", new { VehicleId = vehicle.VehicleId })" class="btn btn-primary w-100">Book Now</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

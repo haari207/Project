@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\serviceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14950451-8D55-4467-957E-5E5F535391AD}|DIDemo\\DIDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\didemo\\bestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14950451-8D55-4467-957E-5E5F535391AD}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\bestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14950451-8D55-4467-957E-5E5F535391AD}|DIDemo\\DIDemo.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\didemo\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14950451-8D55-4467-957E-5E5F535391AD}|DIDemo\\DIDemo.csproj|solutionrelative:didemo\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\didemo\\consoleapp2\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{645F27E0-8B69-475D-BAF8-E6656A3475D4}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inmemoryservice.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Inmemoryservice.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Inmemoryservice.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Inmemoryservice.cs",
+              "RelativeToolTip": "ConsoleApp2\\Inmemoryservice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:07:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serviceuser.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Serviceuser.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Serviceuser.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Serviceuser.cs",
+              "RelativeToolTip": "ConsoleApp2\\Serviceuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:02:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\CustomerService.cs",
+              "RelativeToolTip": "ConsoleApp2\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:56:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Model1.Context.cs",
+              "RelativeToolTip": "ConsoleApp2\\Model1.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:55:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Customer.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:54:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Model1.edmx",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Model1.edmx",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ConsoleApp2\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-02T08:53:36.251Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:52:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bestservice.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\DIDemo\\Bestservice.cs",
+              "RelativeDocumentMoniker": "DIDemo\\Bestservice.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\DIDemo\\Bestservice.cs",
+              "RelativeToolTip": "DIDemo\\Bestservice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:51:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\DIDemo\\Service.cs",
+              "RelativeDocumentMoniker": "DIDemo\\Service.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\DIDemo\\DIDemo\\Service.cs",
+              "RelativeToolTip": "DIDemo\\Service.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:20:08.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\codefirstassignment.exe.config
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\codefirstassignment.exe
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\codefirstassignment.pdb
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\obj\Debug\codefirstassignment.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\obj\Debug\codefirstassignment.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\obj\Debug\codefirs.51537677.Up2Date
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\obj\Debug\codefirstassignment.exe
+C:\Users\pallapu.sandhya\source\repos\codefirstassignment\codefirstassignment\obj\Debug\codefirstassignment.pdb

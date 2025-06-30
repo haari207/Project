@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\classLib.dll.config
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\classLib.dll
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\classLib.pdb
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\obj\Debug\CustomerDAL.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\obj\Debug\CustomerDAL.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\obj\Debug\Customer.C2DBF7D4.Up2Date
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\obj\Debug\classLib.dll
+C:\Users\pallapu.sandhya\source\repos\classLib\classLib\obj\Debug\classLib.pdb

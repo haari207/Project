@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\mymathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\mymathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\controllers\\mydicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\controllers\\mydicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\views\\mydi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\views\\mydi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\controllers\\mysongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\controllers\\mysongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\models\\songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\models\\songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\views\\mysong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\views\\mysong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\migrations\\20250614045254_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\migrations\\20250614045254_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\codefirstapp\\codefirstapp\\migrations\\20250614041215_codefirstapp.models.songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F903B9-0634-4297-B2E1-E8C3CCF3C721}|CodeFirstApp\\CodeFirstApp.csproj|solutionrelative:codefirstapp\\migrations\\20250614041215_codefirstapp.models.songcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MYDI\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Views\\MYDI\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MYDI\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApp\\Views\\MYDI\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T04:19:20.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMathServices.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\MyMathServices.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\MyMathServices.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\MyMathServices.cs",
+              "RelativeToolTip": "CodeFirstApp\\MyMathServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:11:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MYDIController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MYDIController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Controllers\\MYDIController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MYDIController.cs",
+              "RelativeToolTip": "CodeFirstApp\\Controllers\\MYDIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:10:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Custommiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Custommiddleware.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Custommiddleware.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Custommiddleware.cs",
+              "RelativeToolTip": "CodeFirstApp\\Custommiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:25:04.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Program.cs",
+              "RelativeToolTip": "CodeFirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:54:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MySong\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Views\\MySong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Views\\MySong\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApp\\Views\\MySong\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T05:17:55.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySongController.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MySongController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Controllers\\MySongController.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Controllers\\MySongController.cs",
+              "RelativeToolTip": "CodeFirstApp\\Controllers\\MySongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:15:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\appsettings.json",
+              "RelativeToolTip": "CodeFirstApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T05:08:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250614045254_first.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Migrations\\20250614045254_first.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Migrations\\20250614045254_first.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Migrations\\20250614045254_first.cs",
+              "RelativeToolTip": "CodeFirstApp\\Migrations\\20250614045254_first.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:52:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250614041215_CodeFirstApp.Models.SongContext.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Migrations\\20250614041215_CodeFirstApp.Models.SongContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Migrations\\20250614041215_CodeFirstApp.Models.SongContext.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Migrations\\20250614041215_CodeFirstApp.Models.SongContext.cs",
+              "RelativeToolTip": "CodeFirstApp\\Migrations\\20250614041215_CodeFirstApp.Models.SongContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:12:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongContext.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Models\\SongContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Models\\SongContext.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Models\\SongContext.cs",
+              "RelativeToolTip": "CodeFirstApp\\Models\\SongContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:57:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "CodeFirstApp\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\CodeFirstApp\\CodeFirstApp\\Models\\Song.cs",
+              "RelativeToolTip": "CodeFirstApp\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:54:58.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

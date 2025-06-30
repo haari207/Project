@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\obj\Debug\ModelFirstdemo.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\obj\Debug\ModelFirstdemo.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\ModelFirstdemo.exe.config
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\ModelFirstdemo.exe
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\ModelFirstdemo.pdb
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\obj\Debug\ModelFir.2C587AD5.Up2Date
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\obj\Debug\ModelFirstdemo.exe
+C:\Users\pallapu.sandhya\source\repos\ModelFirstdemo\ModelFirstdemo\obj\Debug\ModelFirstdemo.pdb

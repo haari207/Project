@@ -1,0 +1,6 @@
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\bin\Debug\Mymathlib.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\bin\Debug\Mymathlib.pdb
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\obj\Debug\Mymathlib.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\obj\Debug\Mymathlib.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\obj\Debug\Mymathlib.dll
+C:\Users\pallapu.sandhya\source\repos\MyconsoleApp\Mymathlib\obj\Debug\Mymathlib.pdb

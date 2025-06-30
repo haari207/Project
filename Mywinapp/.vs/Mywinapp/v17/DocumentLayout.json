@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mywinapp\\mywinapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\mynotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\mynotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\mynotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\mynotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\mywinapp\\mynotepad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4897F343-CFB4-4728-8CED-DB982FB9D570}|Mywinapp\\Mywinapp.csproj|solutionrelative:mywinapp\\mynotepad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form3.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form3.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form3.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:55:35.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form2.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.cs",
+              "RelativeToolTip": "Mywinapp\\Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:51:07.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form2.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:50:33.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form4.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form4.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form4.cs",
+              "RelativeToolTip": "Mywinapp\\Form4.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:57:42.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegExdemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\RegExdemo.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\RegExdemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\RegExdemo.cs",
+              "RelativeToolTip": "Mywinapp\\RegExdemo.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:08:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegExdemo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\RegExdemo.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\RegExdemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\RegExdemo.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\RegExdemo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:05:30.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form4.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form4.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form4.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:56:50.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyNotepad.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.Designer.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\MyNotepad.Designer.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.Designer.cs",
+              "RelativeToolTip": "Mywinapp\\MyNotepad.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwI4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:59:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyNotepad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\MyNotepad.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\MyNotepad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:15:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form1.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form1.cs [Design]",
+              "RelativeToolTip": "Mywinapp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:19:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form3.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form3.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form3.cs",
+              "RelativeToolTip": "Mywinapp\\Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:55:45.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Form2.Designer.cs",
+              "RelativeToolTip": "Mywinapp\\Form2.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:50:43.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyNotepad.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\MyNotepad.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\MyNotepad.cs",
+              "RelativeToolTip": "Mywinapp\\MyNotepad.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:28:04.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Program.cs",
+              "RelativeDocumentMoniker": "Mywinapp\\Program.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\Mywinapp\\Mywinapp\\Program.cs",
+              "RelativeToolTip": "Mywinapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:53:33.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

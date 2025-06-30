@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE6DCE8-D83F-4840-9B94-64D33F1F7312}|Xunitdemo\\Xunitdemo.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\xunitdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE6DCE8-D83F-4840-9B94-64D33F1F7312}|Xunitdemo\\Xunitdemo.csproj|solutionrelative:xunitdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\unittest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\mstest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|solutionrelative:mstest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC9BD50-CDE1-4CC6-82C0-55045BAE3FCF}|MyclassLib\\MyclassLib.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\myclasslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC9BD50-CDE1-4CC6-82C0-55045BAE3FCF}|MyclassLib\\MyclassLib.csproj|solutionrelative:myclasslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\myclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\myclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\stringassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\stringassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\fakedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\fakedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\stubdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\stubdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\fakeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\fakeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\moqassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\moqassign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\nunittest\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EB0CD-D2B9-4D16-A967-8000BD36D431}|Nunittest\\Nunittest.csproj|solutionrelative:nunittest\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|solutionrelative:mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|c:\\users\\pallapu.sandhya\\source\\repos\\mstestdemo1\\mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26FD7EA-3D71-4B5C-9CF2-6140DB0481DD}|MSTest\\MSTest.csproj|solutionrelative:mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientClass.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\ClientClass.cs",
+              "RelativeDocumentMoniker": "Nunittest\\ClientClass.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\ClientClass.cs",
+              "RelativeToolTip": "Nunittest\\ClientClass.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:08:46.313Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Xunitdemo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Xunitdemo\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Xunitdemo\\UnitTest1.cs",
+              "RelativeToolTip": "Xunitdemo\\UnitTest1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:31:07.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stubdemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Stubdemo.cs",
+              "RelativeDocumentMoniker": "Nunittest\\Stubdemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Stubdemo.cs",
+              "RelativeToolTip": "Nunittest\\Stubdemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:23:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fakedemo.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Fakedemo.cs",
+              "RelativeDocumentMoniker": "Nunittest\\Fakedemo.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Fakedemo.cs",
+              "RelativeToolTip": "Nunittest\\Fakedemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:23:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stringassignment.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Stringassignment.cs",
+              "RelativeDocumentMoniker": "Nunittest\\Stringassignment.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Stringassignment.cs",
+              "RelativeToolTip": "Nunittest\\Stringassignment.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:19:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Myservice.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Myservice.cs",
+              "RelativeDocumentMoniker": "Nunittest\\Myservice.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Myservice.cs",
+              "RelativeToolTip": "Nunittest\\Myservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:19:47.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Nunittest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\UnitTest1.cs",
+              "RelativeToolTip": "Nunittest\\UnitTest1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:18:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyClient.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\MyClient.cs",
+              "RelativeDocumentMoniker": "Nunittest\\MyClient.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\MyClient.cs",
+              "RelativeToolTip": "Nunittest\\MyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:17:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MyclassLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MyclassLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MyclassLib\\Class1.cs",
+              "RelativeToolTip": "MyclassLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:14:22.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unittest.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\Unittest.cs",
+              "RelativeDocumentMoniker": "MSTest\\Unittest.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\Unittest.cs",
+              "RelativeToolTip": "MSTest\\Unittest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:13:54.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\Test1.cs",
+              "RelativeDocumentMoniker": "MSTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\Test1.cs",
+              "RelativeToolTip": "MSTest\\Test1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:07:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MSTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\MSTest\\MSTestSettings.cs",
+              "RelativeToolTip": "MSTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:06:56.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FakeClass.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\FakeClass.cs",
+              "RelativeDocumentMoniker": "Nunittest\\FakeClass.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\FakeClass.cs",
+              "RelativeToolTip": "Nunittest\\FakeClass.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:06:15.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MOQAssign.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\MOQAssign.cs",
+              "RelativeDocumentMoniker": "Nunittest\\MOQAssign.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\MOQAssign.cs",
+              "RelativeToolTip": "Nunittest\\MOQAssign.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:03:27.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unittest2.cs",
+              "DocumentMoniker": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Unittest2.cs",
+              "RelativeDocumentMoniker": "Nunittest\\Unittest2.cs",
+              "ToolTip": "C:\\Users\\pallapu.sandhya\\source\\repos\\MSTestDemo1\\Nunittest\\Unittest2.cs",
+              "RelativeToolTip": "Nunittest\\Unittest2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:53:27.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

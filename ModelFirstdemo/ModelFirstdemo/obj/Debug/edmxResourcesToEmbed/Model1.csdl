@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Pizzas" EntityType="Model1.Pizza" />
+    <EntitySet Name="Book" EntityType="Model1.Book" />
+    <EntitySet Name="Customers" EntityType="Model1.Customers" />
+    <EntitySet Name="Orders" EntityType="Model1.Orders" />
+    <AssociationSet Name="CustomersOrders" Association="Model1.CustomersOrders">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Pizza">
+    <Key>
+      <PropertyRef Name="pizzaid" />
+    </Key>
+    <Property Name="pizzaid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pname" Type="String" Nullable="false" />
+    <Property Name="description" Type="String" Nullable="false" />
+    <Property Name="pizzatype" Type="String" Nullable="false" />
+    <Property Name="price" Type="String" Nullable="false" />
+    <Property Name="toppings" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="Bookname" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="author" Type="String" Nullable="false" />
+    <Property Name="price" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="custId" />
+    </Key>
+    <Property Name="custId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="custname" Type="String" Nullable="false" />
+    <Property Name="age" Type="String" Nullable="false" />
+    <Property Name="custaddress" Type="String" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="Model1.CustomersOrders" FromRole="Customers" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="orderId" />
+    </Key>
+    <Property Name="orderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="custid" Type="String" Nullable="false" />
+    <Property Name="orddate" Type="String" Nullable="false" />
+    <Property Name="product" Type="String" Nullable="false" />
+    <Property Name="qty" Type="String" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="Model1.CustomersOrders" FromRole="Orders" ToRole="Customers" />
+    <Property Name="Customers_custId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="CustomersOrders">
+    <End Type="Model1.Customers" Role="Customers" Multiplicity="1" />
+    <End Type="Model1.Orders" Role="Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="custId" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="Customers_custId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

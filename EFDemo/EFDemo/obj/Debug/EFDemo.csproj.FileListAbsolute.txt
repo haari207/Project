@@ -1,0 +1,12 @@
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\obj\Debug\EFDemo.csproj.AssemblyReference.cache
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\obj\Debug\EFDemo.csproj.CoreCompileInputs.cache
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EFDemo.exe.config
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EFDemo.exe
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EFDemo.pdb
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EntityFramework.dll
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EntityFramework.xml
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\obj\Debug\EFDemo.csproj.Up2Date
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\obj\Debug\EFDemo.exe
+C:\Users\pallapu.sandhya\source\repos\EFDemo\EFDemo\obj\Debug\EFDemo.pdb

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Pizzas" EntityType="Model1.Store.Pizzas" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Book" EntityType="Model1.Store.Book" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customers" EntityType="Model1.Store.Customers" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="Model1.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="CustomersOrders" Association="Model1.Store.CustomersOrders">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Pizzas">
+    <Key>
+      <PropertyRef Name="pizzaid" />
+    </Key>
+    <Property Name="pizzaid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="pizzatype" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="price" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="toppings" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="Bookname" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="author" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="price" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="custId" />
+    </Key>
+    <Property Name="custId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="custname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="age" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="custaddress" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="orderId" />
+    </Key>
+    <Property Name="orderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="orddate" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="product" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="qty" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Customers_custId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="CustomersOrders">
+    <End Role="Customers" Type="Model1.Store.Customers" Multiplicity="1" />
+    <End Role="Orders" Type="Model1.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="custId" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="Customers_custId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Pizzas" EntityType="Model1.Pizza" />
+          <EntitySet Name="Book" EntityType="Model1.Book" />
+          <EntitySet Name="Customers" EntityType="Model1.Customers" />
+          <EntitySet Name="Orders" EntityType="Model1.Orders" />
+          <AssociationSet Name="CustomersOrders" Association="Model1.CustomersOrders">
+            <End Role="Customers" EntitySet="Customers" />
+            <End Role="Orders" EntitySet="Orders" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Pizza">
+          <Key>
+            <PropertyRef Name="pizzaid" />
+          </Key>
+          <Property Name="pizzaid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="pname" Type="String" Nullable="false" />
+          <Property Name="description" Type="String" Nullable="false" />
+          <Property Name="pizzatype" Type="String" Nullable="false" />
+          <Property Name="price" Type="String" Nullable="false" />
+          <Property Name="toppings" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="BookId" />
+          </Key>
+          <Property Name="BookId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+          <Property Name="Bookname" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+          <Property Name="author" Type="String" Nullable="false" />
+          <Property Name="price" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Customers">
+          <Key>
+            <PropertyRef Name="custId" />
+          </Key>
+          <Property Name="custId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="custname" Type="String" Nullable="false" />
+          <Property Name="age" Type="String" Nullable="false" />
+          <Property Name="custaddress" Type="String" Nullable="false" />
+          <NavigationProperty Name="Orders" Relationship="Model1.CustomersOrders" FromRole="Customers" ToRole="Orders" />
+        </EntityType>
+        <EntityType Name="Orders">
+          <Key>
+            <PropertyRef Name="orderId" />
+          </Key>
+          <Property Name="orderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="orddate" Type="String" Nullable="false" />
+          <Property Name="product" Type="String" Nullable="false" />
+          <Property Name="qty" Type="String" Nullable="false" />
+          <NavigationProperty Name="Customer" Relationship="Model1.CustomersOrders" FromRole="Orders" ToRole="Customers" />
+          <Property Name="Customers_custId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="CustomersOrders">
+          <End Type="Model1.Customers" Role="Customers" Multiplicity="1" />
+          <End Type="Model1.Orders" Role="Orders" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customers">
+              <PropertyRef Name="custId" />
+            </Principal>
+            <Dependent Role="Orders">
+              <PropertyRef Name="Customers_custId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model1StoreContainer" CdmEntityContainer="Model1Container">
+    <EntitySetMapping Name="Pizzas">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Pizza)">
+        <MappingFragment StoreEntitySet="Pizzas">
+          <ScalarProperty Name="pizzaid" ColumnName="pizzaid" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="pizzatype" ColumnName="pizzatype" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="toppings" ColumnName="toppings" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Book">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Book)">
+        <MappingFragment StoreEntitySet="Book">
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="Bookname" ColumnName="Bookname" />
+          <ScalarProperty Name="author" ColumnName="author" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Customers)">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="custId" ColumnName="custId" />
+          <ScalarProperty Name="custname" ColumnName="custname" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="custaddress" ColumnName="custaddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Orders)">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="orderId" ColumnName="orderId" />
+          <ScalarProperty Name="orddate" ColumnName="orddate" />
+          <ScalarProperty Name="product" ColumnName="product" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="Customers_custId" ColumnName="Customers_custId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

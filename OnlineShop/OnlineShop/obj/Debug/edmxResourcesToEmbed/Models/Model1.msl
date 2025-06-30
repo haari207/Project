@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping CdmEntityContainer="OnlineshopEntities1" StorageEntityContainer="OnlineshopModelStoreContainer">
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="OnlineshopModel.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="pid" ColumnName="pid" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="pimage" ColumnName="pimage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registers">
+      <EntityTypeMapping TypeName="OnlineshopModel.Register">
+        <MappingFragment StoreEntitySet="Register">
+          <ScalarProperty Name="uname" ColumnName="uname" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="country" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="userorders">
+      <EntityTypeMapping TypeName="OnlineshopModel.userorder">
+        <MappingFragment StoreEntitySet="userorders">
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="transdate" ColumnName="transdate" />
+          <ScalarProperty Name="pid" ColumnName="pid" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="tranid" ColumnName="tranid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

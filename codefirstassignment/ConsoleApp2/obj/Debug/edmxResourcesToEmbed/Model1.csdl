@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="b248dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="cid" />
+    </Key>
+    <Property Name="cid" Type="Int32" Nullable="false" />
+    <Property Name="cname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="DOB" Type="DateTime" Precision="0" />
+    <Property Name="caddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cphone" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="ts" Type="Binary" MaxLength="8" FixedLength="true" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="pan" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="b248dbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <FunctionImport Name="getcust" ReturnType="Collection(b248dbModel.getcust_Result)">
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="getcustomers" ReturnType="Collection(b248dbModel.getcustomers_Result)">
+      <Parameter Name="c" Mode="In" Type="String" />
+      <Parameter Name="a" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="getcust_Result">
+    <Property Type="Int32" Name="cid" Nullable="false" />
+    <Property Type="String" Name="cname" Nullable="true" MaxLength="20" />
+    <Property Type="DateTime" Name="DOB" Nullable="true" />
+    <Property Type="String" Name="caddress" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="cphone" Nullable="true" MaxLength="12" />
+    <Property Type="Binary" Name="ts" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="pan" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="getcustomers_Result">
+    <Property Type="Int32" Name="cid" Nullable="false" />
+    <Property Type="String" Name="cname" Nullable="true" MaxLength="20" />
+    <Property Type="DateTime" Name="DOB" Nullable="true" />
+    <Property Type="String" Name="caddress" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="cphone" Nullable="true" MaxLength="12" />
+    <Property Type="Binary" Name="ts" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="pan" Nullable="true" MaxLength="10" />
+  </ComplexType>
+</Schema>
